@@ -1,1 +1,1 @@
-Live link: https://kawsarmohammadturjo.github.io/Portfolio_practice/
+Live link: https://kawsarturjo.github.io/Portfolio_practice/
