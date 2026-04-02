@@ -171,7 +171,6 @@ margin-bottom: 0px;
 .card-section{
     width: 71%;
     max-width: 1140px;
-    height: 377px;
     margin: 0 auto;
     display: flex;
     padding-top: 50px;
@@ -200,3 +199,49 @@ margin-bottom: 0px;
     line-height: 28px;
 }
 /* card-section end */
+
+/* resume section start */
+.resume-container {
+    display: flex;
+    padding-top: 113px;
+    justify-content: center;
+}
+.resume-container .education {
+    padding-right: 71px;
+}
+.resume-container .education h2{
+    font-size: 30px;
+    color: #474747;
+    font-weight: bold;
+   
+}
+.resume-container .experience h2{
+    font-size: 30px;
+    color: #474747;
+    font-weight: bold;
+   
+}
+.resume-card{
+    width: 511px;
+}
+.resume-card h3 {
+    font-size: 25px;
+    color: #474747;
+    font-weight: bold;
+    padding-top: 30px;
+}
+.resume-card h4 {
+    font-size: 20px;
+    color: #757575;
+    font-weight: 600;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.resume-card p {
+    font-size: 16px;
+    color: #757575;
+    line-height: 28px;
+    padding-bottom: 30px;
+    padding-right: 47px;
+}
+/* resume section end */
